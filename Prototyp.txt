@@ -1,0 +1,22 @@
+Setup: lokacja (ogród o rozwidlaj¹cych siê œcie¿kach), gracz znajduje siê w centralnym punkcie ogrodu, z którego musi znaleŸæ wyjœcie. W trakcie swojej podró¿y natyka siê na potwory, które musi pokonaæ, by przejœæ dalej.
+
+Warunki zwyciêstwa: pokonanie potworów i odnalezienie œcie¿ki prowadz¹cej do wyjœcia z ogrodu-labiryntu.
+
+
+ 
+
+
+Progres: gracz pokonuje kolejne etapy (pojedynki i wybory œcie¿ek). 
+
+
+ 
+
+
+Dynamiki: Gracz atakuje napotkane potwory; po udanych starciach zbiera loot, który mo¿e wymieniæ na lepsz¹ broñ u npc.
+
+
+
+Cele: Wi¹¿¹ siê z dynamikami, gracz poszukuje najlepszej drogi wyjœcia z labiryntu, wzmacnia ekwipunek i walczy z mocniejszymi stworami. 
+
+
+Theme: gra labiryntowa, po³¹czona z bijatykami w stylu Mortal Kombat, konkretne walki z potworami bêd¹ wygl¹da³y jak starcia na arenach.
